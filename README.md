@@ -1,5 +1,5 @@
 <h1 align="center">software engineer</h1>
-<h4 align="center">This is my summary</h4>
+<h4>This is my summary</h4>
 <h3>Core Skills:</h3>
 <table>
   <tr>
