@@ -1,6 +1,5 @@
 <h1>software engineer</h1>
-<p>I am a Senior Full-Stack Engineer with over 10 years of experience and a Master's degree in Computer Science. My expertise spans Ruby on Rails, JavaScript, Node.js, React, Vue.js, and Elixir. I have successfully contributed to startups and large enterprises across diverse industries, including healthcare, fintech, real estate, eCommerce, media streaming, and enterprise software.
-My work is characterized by clean, maintainable, and thoroughly tested code, which has consistently led to satisfied clients. I am eager to connect and discuss how my skills and experience can benefit your business and projects.</p>
+<p>Passionate about building scalable and efficient web applications, I am a Senior Full-Stack Engineer with 10+ years of experience and a Master’s degree in Computer Science. My expertise spans Ruby on Rails, JavaScript, Node.js, React, Vue.js, and Elixir, allowing me to deliver robust solutions across industries like healthcare, fintech, real estate, eCommerce, media streaming, and enterprise software. I take pride in writing clean, maintainable, and well-tested code that enhances user experiences and drives business growth. Always eager for new challenges—let’s connect and explore how I can contribute to your next big project!</p>
 
 <hr>
 <p align="left"> <img src="./awads.svg" alt="CoreTech" /> </p>
