@@ -1,7 +1,20 @@
 <h1 align="center">software engineer</h1>
 <h4 align="center">I am a Senior Full-Stack Engineer with over 10 years of experience and a Master's degree in Computer Science. My expertise spans Ruby on Rails, JavaScript, Node.js, React, Vue.js, and Elixir. I have successfully contributed to startups and large enterprises across diverse industries, including healthcare, fintech, real estate, eCommerce, media streaming, and enterprise software.
 My work is characterized by clean, maintainable, and thoroughly tested code, which has consistently led to satisfied clients. I am eager to connect and discuss how my skills and experience can benefit your business and projects.</h4>
-<h3>Core Skills:</h3>
+
+<hr>
+<p align="left"> <img src="./awads.svg" alt="CoreTech" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AleksandarIvezic&theme=nord&row=1&column=6" /></a> </p>
+
+<hr>
+<p align="left"> <img src="./github_states.svg" alt="CoreTech" /> </p>
+<p>
+	<img height="180em" src="./123.svg" />
+	<img height="180em" src="./456.svg" />
+</a>
+
+<hr>
+<p align="left"> <img src="./core_skills.svg" alt="CoreTech" /> </p>
 
 <table>
   <tr>
